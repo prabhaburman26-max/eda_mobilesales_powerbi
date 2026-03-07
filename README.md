@@ -82,7 +82,7 @@ The following analytical steps were performed:
 ![Geographical Overview](geo_analysis_page.png)
 
 ### Forecast & Recommendations
-![Forecast](forecast_page.png)
+![Forecast](forecst_page.png)
 
 ---
 
@@ -111,4 +111,5 @@ This dashboard helps businesses:
 **email**- prabhaburman26@gmail.com
 
 **LinkedIn** - https://www.linkedin.com/in/prabha-burman-632483325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 
